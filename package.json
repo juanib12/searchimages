@@ -1,6 +1,6 @@
 {
-  "name": "search-images",
-  "homepage":"https://juanib12.github.io/search-images",
+  "name": "searchimages",
+  "homepage":"https://juanib12.github.io/searchimages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
